@@ -1,6 +1,8 @@
 # Magic-Opt-Out
 Automatically opt-out from mcgill opt-out-able fees
 ## Usage
+You need [Node.js](https://nodejs.org/en/) installed.
+
 `npm install`
 
 `node optout.js`
