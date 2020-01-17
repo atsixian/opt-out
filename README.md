@@ -9,7 +9,7 @@ You need [Node.js](https://nodejs.org/en/) installed.
 
 `npm install`
 
-`node optout.js`
+`npm start`
 
 ## Disclaimer
 Please read the fee description before you use this script. You may be excluded from some services if you opt out certain fees.
