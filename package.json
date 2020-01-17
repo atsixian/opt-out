@@ -1,0 +1,24 @@
+{
+  "name": "opt-out",
+  "version": "1.0.0",
+  "description": "automated opt-out mcgill fees",
+  "main": "optout.js",
+  "dependencies": {
+    "prompts": "^2.3.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deerhound579/opt-out.git"
+  },
+  "author": "Deerhound579",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deerhound579/opt-out/issues"
+  },
+  "homepage": "https://github.com/Deerhound579/opt-out#readme"
+}
