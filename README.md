@@ -3,7 +3,7 @@ Automatically opt out from mcgill opt-out-able fees
 ## Usage
 You need [Node.js](https://nodejs.org/en/) installed.
 
-`git clone https://github.com/Deerhound579/opt-out.git `
+`git clone https://github.com/Deerhound579/opt-out.git ` (or directly download from [here](https://raw.githubusercontent.com/Deerhound579/opt-out/master/optout.js))
 
 `cd opt-out`
 
